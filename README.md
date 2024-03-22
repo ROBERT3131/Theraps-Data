@@ -1,2 +1,1 @@
-# TheRaps-Data
-Data analysis projects
+# Sales Analysis Project
