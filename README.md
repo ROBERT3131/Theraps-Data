@@ -1,2 +1,2 @@
-# Theraps-Data
+# TheRaps-Data
 Data analysis projects
